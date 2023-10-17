@@ -1,0 +1,20 @@
+10/9/2023, 5:08:38 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/9/2023, 5:55:34 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/15/2023, 10:07:23 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/15/2023, 10:33:56 PM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v15-20020a63b64f000000b00528db73ed70sm5569532pgt.3 - gsmtp
+10/15/2023, 10:33:56 PM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v15-20020a63b64f000000b00528db73ed70sm5569532pgt.3 - gsmtp
+10/15/2023, 10:36:06 PM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 14-20020a17090a19ce00b002630c9d78aasm3587043pjj.5 - gsmtp
+10/15/2023, 10:36:06 PM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 14-20020a17090a19ce00b002630c9d78aasm3587043pjj.5 - gsmtp
+10/15/2023, 10:36:29 PM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jc3-20020a17090325c300b001c9bca1d705sm7065621plb.242 - gsmtp
+10/15/2023, 10:36:29 PM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jc3-20020a17090325c300b001c9bca1d705sm7065621plb.242 - gsmtp
+10/15/2023, 11:13:37 PM [ERROR]: Logout error: invalid token
+10/15/2023, 11:14:14 PM [ERROR]: Logout error: invalid token
+10/15/2023, 11:17:13 PM [ERROR]: Logout error: invalid token
+10/15/2023, 11:29:47 PM [ERROR]: Error in adding device: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/15/2023, 11:29:58 PM [ERROR]: Error in adding device: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null

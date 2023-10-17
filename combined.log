@@ -1,0 +1,1647 @@
+10/9/2023, 3:27:17 PM [INFO]: App is running on port 8080
+10/9/2023, 3:27:39 PM [INFO]: App is running on port 8080
+10/9/2023, 3:28:05 PM [INFO]: App is running on port 8080
+10/9/2023, 3:28:05 PM [INFO]: Database connected
+10/9/2023, 3:28:05 PM [INFO]: Connected to MQTT broker
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 3:28:05 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 3:28:30 PM [INFO]: Received SIGINT signal. Closing connection pool...
+10/9/2023, 3:28:42 PM [INFO]: App is running on port 8080
+10/9/2023, 3:28:42 PM [INFO]: Database connected
+10/9/2023, 3:28:42 PM [INFO]: Connected to MQTT broker
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 3:28:42 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 3:29:39 PM [INFO]: App is running on port 8080
+10/9/2023, 3:29:39 PM [INFO]: Database connected
+10/9/2023, 3:29:39 PM [INFO]: Connected to MQTT broker
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 3:29:39 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 3:30:27 PM [INFO]: App is running on port 8080
+10/9/2023, 3:30:27 PM [INFO]: Database connected
+10/9/2023, 3:30:27 PM [INFO]: Connected to MQTT broker
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 3:30:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:10:36 PM [INFO]: App is running on port 8080
+10/9/2023, 4:10:36 PM [INFO]: Database connected
+10/9/2023, 4:10:36 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:10:36 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:15:49 PM [INFO]: App is running on port 8080
+10/9/2023, 4:15:49 PM [INFO]: Database connected
+10/9/2023, 4:15:49 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:15:49 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:20:14 PM [INFO]: App is running on port 8080
+10/9/2023, 4:20:14 PM [INFO]: Database connected
+10/9/2023, 4:20:14 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:20:14 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:34:26 PM [INFO]: App is running on port 8080
+10/9/2023, 4:34:26 PM [INFO]: Database connected
+10/9/2023, 4:34:26 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:34:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:36:21 PM [INFO]: Received SIGINT signal. Closing connection pool...
+10/9/2023, 4:36:27 PM [INFO]: App is running on port 8080
+10/9/2023, 4:36:27 PM [INFO]: Database connected
+10/9/2023, 4:36:27 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:36:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:38:22 PM [INFO]: Received SIGINT signal. Closing connection pool...
+10/9/2023, 4:38:31 PM [INFO]: App is running on port 8080
+10/9/2023, 4:38:31 PM [INFO]: Database connected
+10/9/2023, 4:38:31 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:38:31 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:40:01 PM [INFO]: Received SIGINT signal. Closing connection pool...
+10/9/2023, 4:40:08 PM [INFO]: App is running on port 8080
+10/9/2023, 4:40:08 PM [INFO]: Database connected
+10/9/2023, 4:40:08 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:40:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:41:16 PM [INFO]: App is running on port 8080
+10/9/2023, 4:41:16 PM [INFO]: App is running on port 8080
+10/9/2023, 4:41:16 PM [INFO]: Database connected
+10/9/2023, 4:41:16 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:41:16 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:41:24 PM [INFO]: App is running on port 8080
+10/9/2023, 4:41:24 PM [INFO]: Database connected
+10/9/2023, 4:41:24 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:41:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:41:41 PM [INFO]: App is running on port 8080
+10/9/2023, 4:41:41 PM [INFO]: Database connected
+10/9/2023, 4:41:41 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:41:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:44:56 PM [INFO]: App is running on port 8080
+10/9/2023, 4:44:56 PM [INFO]: Database connected
+10/9/2023, 4:44:56 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:44:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 4:51:07 PM [INFO]: App is running on port 8080
+10/9/2023, 4:51:08 PM [INFO]: Database connected
+10/9/2023, 4:51:08 PM [INFO]: Connected to MQTT broker
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 4:51:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:08:37 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:08:37 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:08:38 PM [INFO]: Database connected
+10/9/2023, 5:08:38 PM [INFO]: Database connected
+10/9/2023, 5:08:38 PM [INFO]: Trip is already completed for this Vehicle 092b3954-8d50-4e1f-ac29-ad75ced98227 New trip will generate.
+10/9/2023, 5:08:38 PM [INFO]: Database connected
+10/9/2023, 5:08:38 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:08:38 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/9/2023, 5:08:42 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:08:42 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:08:48 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:08:48 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:08:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:08:58 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:08:59 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:08:59 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:09:08 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:09:08 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:09:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:09:18 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:09:24 PM [INFO]: App is running on port 8080
+10/9/2023, 5:09:24 PM [INFO]: Database connected
+10/9/2023, 5:09:24 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:09:28 PM [INFO]: Database connected
+10/9/2023, 5:09:28 PM [INFO]: Database connected
+10/9/2023, 5:09:28 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:09:28 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:09:38 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:09:38 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:09:41 PM [INFO]: App is running on port 8080
+10/9/2023, 5:09:41 PM [INFO]: Database connected
+10/9/2023, 5:09:41 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:09:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:09:48 PM [INFO]: Database connected
+10/9/2023, 5:09:48 PM [INFO]: Database connected
+10/9/2023, 5:09:48 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:09:48 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:09:58 PM [INFO]: Database connected
+10/9/2023, 5:09:58 PM [INFO]: Database connected
+10/9/2023, 5:09:58 PM [INFO]: Database connected
+10/9/2023, 5:09:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:09:58 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:10:08 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:10:08 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:10:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:10:18 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:10:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:10:29 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:10:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:10:39 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:10:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:10:49 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:10:59 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:10:59 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:11:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:11:09 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:11:19 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:11:19 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:11:25 PM [INFO]: App is running on port 8080
+10/9/2023, 5:11:25 PM [INFO]: Database connected
+10/9/2023, 5:11:25 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:11:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:11:29 PM [INFO]: Database connected
+10/9/2023, 5:11:29 PM [INFO]: Database connected
+10/9/2023, 5:11:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:11:29 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:11:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:11:39 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:11:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:11:49 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:11:53 PM [INFO]: App is running on port 8080
+10/9/2023, 5:11:54 PM [INFO]: Database connected
+10/9/2023, 5:11:54 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:11:54 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:11:59 PM [INFO]: Database connected
+10/9/2023, 5:11:59 PM [INFO]: Database connected
+10/9/2023, 5:11:59 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:11:59 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:12:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:12:09 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:12:19 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:12:19 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:12:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:12:29 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:12:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:12:39 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:12:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:12:50 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:13:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:13:00 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:13:02 PM [INFO]: App is running on port 8080
+10/9/2023, 5:13:02 PM [INFO]: Database connected
+10/9/2023, 5:13:02 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:13:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:13:10 PM [INFO]: Database connected
+10/9/2023, 5:13:10 PM [INFO]: Database connected
+10/9/2023, 5:13:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:13:10 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:13:18 PM [INFO]: Received SIGINT signal. Closing connection pool...
+10/9/2023, 5:13:24 PM [INFO]: App is running on port 8080
+10/9/2023, 5:13:24 PM [INFO]: Database connected
+10/9/2023, 5:13:24 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:13:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:13:30 PM [INFO]: Database connected
+10/9/2023, 5:13:30 PM [INFO]: Database connected
+10/9/2023, 5:13:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:13:30 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:13:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:13:40 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:13:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:13:50 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:14:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:14:00 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:14:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:14:10 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:14:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:14:20 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:14:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:14:30 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:14:35 PM [INFO]: App is running on port 8080
+10/9/2023, 5:14:35 PM [INFO]: Database connected
+10/9/2023, 5:14:35 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:14:35 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:14:40 PM [INFO]: Database connected
+10/9/2023, 5:14:40 PM [INFO]: Database connected
+10/9/2023, 5:14:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:14:40 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:14:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:14:50 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:15:01 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:15:01 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:15:11 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:15:11 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:15:21 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:15:21 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:15:23 PM [INFO]: App is running on port 8080
+10/9/2023, 5:15:23 PM [INFO]: Database connected
+10/9/2023, 5:15:25 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:15:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:15:31 PM [INFO]: Database connected
+10/9/2023, 5:15:31 PM [INFO]: Database connected
+10/9/2023, 5:15:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:15:31 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:15:41 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:15:41 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:15:51 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:15:51 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:16:01 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:16:01 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:16:11 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:16:11 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:16:21 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:16:21 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:16:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:16:31 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:16:41 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:16:41 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:16:51 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:16:51 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:17:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:17:02 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:17:12 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:17:12 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:17:22 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:17:22 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:17:32 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:17:32 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:17:40 PM [INFO]: App is running on port 8080
+10/9/2023, 5:17:40 PM [INFO]: Database connected
+10/9/2023, 5:17:40 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:17:40 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:17:42 PM [INFO]: Database connected
+10/9/2023, 5:17:42 PM [INFO]: Database connected
+10/9/2023, 5:17:42 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:17:42 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:17:52 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:17:52 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:18:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:18:02 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:18:12 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:18:12 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:18:22 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:18:22 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:18:32 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:18:32 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:18:42 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:18:42 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:18:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:18:53 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:19:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:19:03 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:19:13 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:19:13 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:19:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:19:23 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:19:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:19:33 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:19:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:19:43 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:19:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:19:53 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:20:02 PM [INFO]: App is running on port 8080
+10/9/2023, 5:20:02 PM [INFO]: Database connected
+10/9/2023, 5:20:02 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:20:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:20:03 PM [INFO]: Database connected
+10/9/2023, 5:20:03 PM [INFO]: Database connected
+10/9/2023, 5:20:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:20:03 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:20:13 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:20:13 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:20:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:20:23 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:20:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:20:33 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:20:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:20:43 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:20:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:20:54 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:21:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:21:04 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:21:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:21:14 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:21:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:21:24 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:22:54 PM [INFO]: App is running on port 8080
+10/9/2023, 5:22:54 PM [INFO]: Database connected
+10/9/2023, 5:22:54 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:22:54 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:24:30 PM [INFO]: App is running on port 8080
+10/9/2023, 5:24:30 PM [INFO]: Database connected
+10/9/2023, 5:24:30 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:24:30 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:26:49 PM [INFO]: App is running on port 8080
+10/9/2023, 5:26:49 PM [INFO]: Database connected
+10/9/2023, 5:26:49 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:26:49 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:27:52 PM [INFO]: App is running on port 8080
+10/9/2023, 5:27:52 PM [INFO]: Database connected
+10/9/2023, 5:27:52 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:27:52 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:29:16 PM [INFO]: App is running on port 8080
+10/9/2023, 5:29:16 PM [INFO]: Database connected
+10/9/2023, 5:29:16 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:29:16 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:30:08 PM [INFO]: App is running on port 8080
+10/9/2023, 5:30:08 PM [INFO]: Database connected
+10/9/2023, 5:30:08 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:30:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:30:28 PM [INFO]: App is running on port 8080
+10/9/2023, 5:30:29 PM [INFO]: Database connected
+10/9/2023, 5:30:29 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:30:29 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:31:25 PM [INFO]: App is running on port 8080
+10/9/2023, 5:31:25 PM [INFO]: Database connected
+10/9/2023, 5:31:25 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:31:25 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:43:56 PM [INFO]: App is running on port 8080
+10/9/2023, 5:43:56 PM [INFO]: Database connected
+10/9/2023, 5:43:56 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:43:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:45:53 PM [INFO]: App is running on port 8080
+10/9/2023, 5:45:53 PM [INFO]: Database connected
+10/9/2023, 5:45:53 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:45:53 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:46:26 PM [INFO]: App is running on port 8080
+10/9/2023, 5:46:26 PM [INFO]: Database connected
+10/9/2023, 5:46:26 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:46:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:46:36 PM [INFO]: App is running on port 8080
+10/9/2023, 5:46:36 PM [INFO]: Database connected
+10/9/2023, 5:46:36 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:46:36 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:47:47 PM [INFO]: App is running on port 8080
+10/9/2023, 5:47:47 PM [INFO]: Database connected
+10/9/2023, 5:47:47 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:47:47 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:48:41 PM [INFO]: App is running on port 8080
+10/9/2023, 5:48:41 PM [INFO]: Database connected
+10/9/2023, 5:48:41 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:48:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:50:20 PM [INFO]: App is running on port 8080
+10/9/2023, 5:50:20 PM [INFO]: Database connected
+10/9/2023, 5:50:20 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:50:20 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:55:23 PM [INFO]: Database connected
+10/9/2023, 5:55:23 PM [INFO]: Database connected
+10/9/2023, 5:55:26 PM [INFO]: App is running on port 8080
+10/9/2023, 5:55:26 PM [INFO]: Database connected
+10/9/2023, 5:55:26 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:55:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 5:55:34 PM [INFO]: Database connected
+10/9/2023, 5:55:34 PM [INFO]: Database connected
+10/9/2023, 5:55:34 PM [INFO]: Trip is already completed for this Vehicle 092b3954-8d50-4e1f-ac29-ad75ced98227 New trip will generate.
+10/9/2023, 5:55:34 PM [INFO]: Database connected
+10/9/2023, 5:55:34 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:55:34 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/9/2023, 5:55:36 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:55:36 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:55:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:55:43 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:55:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:55:53 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:56:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:56:03 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:56:13 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:56:13 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:56:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:56:23 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:56:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:56:33 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:56:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:56:43 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:56:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:56:53 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:57:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:57:03 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:57:13 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:57:13 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:57:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:57:23 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:57:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:57:34 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:57:44 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:57:44 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:57:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:57:54 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:58:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:58:04 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:58:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:58:14 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:58:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:58:24 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:58:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:58:34 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:58:44 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:58:44 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:58:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:58:54 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:59:04 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:59:14 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:59:24 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:59:34 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:45 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:59:45 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:55 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 5:59:55 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 5:59:57 PM [INFO]: App is running on port 8080
+10/9/2023, 5:59:57 PM [INFO]: Database connected
+10/9/2023, 5:59:57 PM [INFO]: Connected to MQTT broker
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 5:59:57 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:00:05 PM [INFO]: Database connected
+10/9/2023, 6:00:05 PM [INFO]: Database connected
+10/9/2023, 6:00:05 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:05 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:00:16 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:16 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:00:25 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:25 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:00:36 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:36 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:00:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:40 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:00:45 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:45 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:00:55 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:00:55 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:01:05 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:01:05 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:01:15 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:01:16 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:01:26 PM [INFO]: App is running on port 8080
+10/9/2023, 6:01:26 PM [INFO]: Database connected
+10/9/2023, 6:01:26 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:01:26 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:01:36 PM [INFO]: Database connected
+10/9/2023, 6:01:36 PM [INFO]: Database connected
+10/9/2023, 6:01:36 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:01:36 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:01:46 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:01:46 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:01:57 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:01:57 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:06 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:06 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:16 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:16 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:21 PM [INFO]: App is running on port 8080
+10/9/2023, 6:02:21 PM [INFO]: Database connected
+10/9/2023, 6:02:21 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:02:21 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:02:26 PM [INFO]: Database connected
+10/9/2023, 6:02:26 PM [INFO]: Database connected
+10/9/2023, 6:02:26 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:26 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:27 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:27 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:31 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:36 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:36 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:47 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:47 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:02:57 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:02:57 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:03:02 PM [INFO]: App is running on port 8080
+10/9/2023, 6:03:02 PM [INFO]: Database connected
+10/9/2023, 6:03:02 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:03:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:03:07 PM [INFO]: Database connected
+10/9/2023, 6:03:07 PM [INFO]: Database connected
+10/9/2023, 6:03:07 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:03:07 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:03:17 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:03:17 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:03:27 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:03:27 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:03:37 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:03:37 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:03:47 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:03:47 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:03:51 PM [INFO]: App is running on port 8080
+10/9/2023, 6:03:51 PM [INFO]: Database connected
+10/9/2023, 6:03:51 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:03:51 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:03:57 PM [INFO]: Database connected
+10/9/2023, 6:03:57 PM [INFO]: Database connected
+10/9/2023, 6:03:57 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:03:57 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:04:07 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:04:07 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:04:17 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:04:17 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:04:27 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:04:27 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:04:32 PM [INFO]: App is running on port 8080
+10/9/2023, 6:04:32 PM [INFO]: Database connected
+10/9/2023, 6:04:32 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:04:32 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:04:38 PM [INFO]: Database connected
+10/9/2023, 6:04:38 PM [INFO]: Database connected
+10/9/2023, 6:04:38 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:04:38 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:04:48 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:04:48 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:04:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:04:58 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:05:08 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:05:08 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:05:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:05:18 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:05:28 PM [INFO]: Ongoing trip found. Trip will continue
+10/9/2023, 6:05:28 PM [INFO]: Stored Tripdata in the database
+10/9/2023, 6:05:44 PM [INFO]: App is running on port 8080
+10/9/2023, 6:05:45 PM [INFO]: Database connected
+10/9/2023, 6:05:45 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:05:45 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:06:21 PM [INFO]: App is running on port 8080
+10/9/2023, 6:06:22 PM [INFO]: Database connected
+10/9/2023, 6:06:22 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:06:22 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:08:08 PM [INFO]: App is running on port 8080
+10/9/2023, 6:08:08 PM [INFO]: Database connected
+10/9/2023, 6:08:08 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:08:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:09:24 PM [INFO]: App is running on port 8080
+10/9/2023, 6:09:24 PM [INFO]: Database connected
+10/9/2023, 6:09:24 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:09:24 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:11:15 PM [INFO]: App is running on port 8080
+10/9/2023, 6:11:15 PM [INFO]: Database connected
+10/9/2023, 6:11:15 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:11:15 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:11:56 PM [INFO]: App is running on port 8080
+10/9/2023, 6:11:56 PM [INFO]: Database connected
+10/9/2023, 6:11:56 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:11:56 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/9/2023, 6:16:18 PM [INFO]: App is running on port 8080
+10/9/2023, 6:16:18 PM [INFO]: Database connected
+10/9/2023, 6:16:18 PM [INFO]: Connected to MQTT broker
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/9/2023, 6:16:18 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:04:16 PM [INFO]: App is running on port 8080
+10/15/2023, 10:04:16 PM [INFO]: Database connected
+10/15/2023, 10:07:12 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:07:12 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:07:23 PM [INFO]: Database connected
+10/15/2023, 10:07:23 PM [INFO]: Database connected
+10/15/2023, 10:07:23 PM [INFO]: Trip is already completed for this Vehicle 092b3954-8d50-4e1f-ac29-ad75ced98227 New trip will generate.
+10/15/2023, 10:07:23 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:07:23 PM [INFO]: Database connected
+10/15/2023, 10:07:23 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/15/2023, 10:07:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:07:33 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:07:56 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:07:56 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:07:56 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:07:56 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:08:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:08:02 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:08:13 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:08:13 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:08:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:08:49 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:08:49 PM [INFO]: Database connected
+10/15/2023, 10:08:49 PM [INFO]: Database connected
+10/15/2023, 10:08:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:08:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:08:49 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:08:49 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:08:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:08:53 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:09:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:09:04 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:09:15 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:09:15 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:09:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:09:23 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:09:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:09:33 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:09:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:09:43 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:09:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:09:53 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:10:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:10:03 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:11:23 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:11:23 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:11:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:11:33 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:11:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:11:43 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:11:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:11:54 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:12:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:12:03 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:12:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:12:14 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:12:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:12:24 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:12:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:12:34 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:12:44 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:12:44 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:12:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:12:54 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:13:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:13:04 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:13:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:13:14 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:14:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:14:58 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:14:58 PM [INFO]: Database connected
+10/15/2023, 10:14:58 PM [INFO]: Database connected
+10/15/2023, 10:14:58 PM [INFO]: Database connected
+10/15/2023, 10:14:58 PM [INFO]: Database connected
+10/15/2023, 10:24:07 PM [INFO]: App is running on port 8080
+10/15/2023, 10:24:07 PM [INFO]: Database connected
+10/15/2023, 10:24:08 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:24:08 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:24:09 PM [INFO]: Database connected
+10/15/2023, 10:24:09 PM [INFO]: Database connected
+10/15/2023, 10:24:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:24:09 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:24:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:24:18 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:24:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:24:29 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:24:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:24:39 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:24:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:24:49 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:24:59 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:24:59 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:25:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:25:09 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:25:19 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:25:19 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:25:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:25:29 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:25:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:25:39 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:25:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:25:49 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:09 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:19 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:19 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:29 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:39 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:26:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:26:50 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:27:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:27:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:27:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:27:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:27:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:27:20 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:27:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:27:31 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:27:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:27:40 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:27:52 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:27:52 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:28:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:28:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:28:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:28:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:28:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:28:20 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:28:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:28:30 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:28:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:28:40 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:28:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:28:50 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:29:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:29:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:29:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:29:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:29:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:29:20 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:29:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:29:30 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:29:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:29:40 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:29:51 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:29:51 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:30:01 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:30:01 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:30:11 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:30:11 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:30:21 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:30:21 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:30:32 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:30:32 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:30:41 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:30:41 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:30:51 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:30:51 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:31:01 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:31:01 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:31:11 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:31:11 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:31:21 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:31:21 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:31:27 PM [INFO]: App is running on port 8080
+10/15/2023, 10:31:27 PM [INFO]: Database connected
+10/15/2023, 10:31:27 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:31:27 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:31:31 PM [INFO]: Database connected
+10/15/2023, 10:31:31 PM [INFO]: Database connected
+10/15/2023, 10:31:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:31:31 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:31:41 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:31:41 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:31:52 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:31:52 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:32:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:32:02 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:32:09 PM [INFO]: App is running on port 8080
+10/15/2023, 10:32:10 PM [INFO]: Database connected
+10/15/2023, 10:32:10 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:32:10 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:32:12 PM [INFO]: Database connected
+10/15/2023, 10:32:12 PM [INFO]: Database connected
+10/15/2023, 10:32:12 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:32:12 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:32:22 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:32:22 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:32:32 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:32:32 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:32:42 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:32:42 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:32:52 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:32:52 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:33:02 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:12 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:33:12 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:22 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:33:22 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:32 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:33:32 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:42 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:33:42 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:52 PM [INFO]: Database connected
+10/15/2023, 10:33:52 PM [INFO]: Database connected
+10/15/2023, 10:33:52 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:33:52 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:33:56 PM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v15-20020a63b64f000000b00528db73ed70sm5569532pgt.3 - gsmtp
+10/15/2023, 10:33:56 PM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v15-20020a63b64f000000b00528db73ed70sm5569532pgt.3 - gsmtp
+10/15/2023, 10:34:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:34:02 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:34:12 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:34:12 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:34:22 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:34:22 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:34:31 PM [INFO]: App is running on port 8080
+10/15/2023, 10:34:31 PM [INFO]: Database connected
+10/15/2023, 10:34:32 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:34:32 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:34:33 PM [INFO]: Database connected
+10/15/2023, 10:34:33 PM [INFO]: Database connected
+10/15/2023, 10:34:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:34:33 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:34:42 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:34:42 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:34:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:34:53 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:35:02 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:35:02 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:35:12 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:35:12 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:35:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:35:23 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:35:33 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:35:33 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:35:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:35:43 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:35:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:35:53 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:36:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:36:03 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:36:06 PM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 14-20020a17090a19ce00b002630c9d78aasm3587043pjj.5 - gsmtp
+10/15/2023, 10:36:06 PM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 14-20020a17090a19ce00b002630c9d78aasm3587043pjj.5 - gsmtp
+10/15/2023, 10:36:13 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:36:13 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:36:23 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:36:23 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:36:29 PM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jc3-20020a17090325c300b001c9bca1d705sm7065621plb.242 - gsmtp
+10/15/2023, 10:36:29 PM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jc3-20020a17090325c300b001c9bca1d705sm7065621plb.242 - gsmtp
+10/15/2023, 10:36:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:36:34 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:36:43 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:36:43 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:36:53 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:36:53 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:37:03 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:37:03 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:37:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:37:14 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:37:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:37:24 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:37:35 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:37:35 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:37:52 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:37:52 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:04 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:04 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:14 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:24 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:34 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:44 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:44 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:38:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:38:54 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:39:04 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:39:04 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:39:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:39:14 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:39:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:39:24 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:39:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:39:34 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:39:44 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:39:44 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:39:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:39:54 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:40:05 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:40:05 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:40:14 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:40:14 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:40:24 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:40:24 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:40:34 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:40:34 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:40:45 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:40:45 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:40:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:40:54 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:41:05 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:41:05 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:41:15 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:41:15 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:41:25 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:41:25 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:41:35 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:41:35 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:41:44 PM [INFO]: App is running on port 8080
+10/15/2023, 10:41:44 PM [INFO]: Database connected
+10/15/2023, 10:41:44 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:41:44 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:41:45 PM [INFO]: Database connected
+10/15/2023, 10:41:45 PM [INFO]: Database connected
+10/15/2023, 10:41:45 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:41:45 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:41:55 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:41:55 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Database connected
+10/15/2023, 10:43:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:43:58 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:44:40 PM [INFO]: App is running on port 8080
+10/15/2023, 10:44:40 PM [INFO]: Database connected
+10/15/2023, 10:44:41 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:44:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:44:46 PM [INFO]: Database connected
+10/15/2023, 10:44:46 PM [INFO]: Database connected
+10/15/2023, 10:44:46 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:44:46 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:44:56 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:44:56 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:45:06 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:45:06 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:45:17 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:45:17 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:45:27 PM [INFO]: App is running on port 8080
+10/15/2023, 10:45:28 PM [INFO]: Database connected
+10/15/2023, 10:45:28 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:45:28 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:45:37 PM [INFO]: Database connected
+10/15/2023, 10:45:37 PM [INFO]: Database connected
+10/15/2023, 10:45:37 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:45:37 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:45:46 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:45:46 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:45:52 PM [INFO]: App is running on port 8080
+10/15/2023, 10:45:52 PM [INFO]: Database connected
+10/15/2023, 10:45:52 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:45:52 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:45:57 PM [INFO]: Database connected
+10/15/2023, 10:45:57 PM [INFO]: Database connected
+10/15/2023, 10:45:57 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:45:57 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:46:07 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:46:07 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:46:17 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:46:17 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:46:21 PM [INFO]: App is running on port 8080
+10/15/2023, 10:46:21 PM [INFO]: Database connected
+10/15/2023, 10:46:21 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:46:21 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:46:27 PM [INFO]: Database connected
+10/15/2023, 10:46:27 PM [INFO]: Database connected
+10/15/2023, 10:46:27 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:46:27 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:46:37 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:46:37 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:46:47 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:46:47 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:46:57 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:46:57 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:47:07 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:47:07 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:47:17 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:47:17 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:47:27 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:47:27 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:47:37 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:47:37 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:47:47 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:47:47 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:47:49 PM [INFO]: App is running on port 8080
+10/15/2023, 10:47:49 PM [INFO]: Database connected
+10/15/2023, 10:47:51 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:47:51 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:47:57 PM [INFO]: Database connected
+10/15/2023, 10:47:57 PM [INFO]: Database connected
+10/15/2023, 10:47:57 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:47:57 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:48:01 PM [INFO]: App is running on port 8080
+10/15/2023, 10:48:01 PM [INFO]: Database connected
+10/15/2023, 10:48:02 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:48:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:48:08 PM [INFO]: Database connected
+10/15/2023, 10:48:08 PM [INFO]: Database connected
+10/15/2023, 10:48:08 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:48:08 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:48:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:48:18 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:48:28 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:48:28 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:48:38 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:48:38 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:48:48 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:48:48 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:48:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:48:58 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:49:08 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:49:08 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:49:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:49:18 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:49:28 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:49:28 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:49:38 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:49:38 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:49:48 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:49:48 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:49:58 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:49:58 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:50:08 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:50:08 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:50:18 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:50:18 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:50:28 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:50:28 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:50:38 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:50:38 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:50:48 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:50:48 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:50:59 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:50:59 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:51:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:51:09 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:51:19 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:51:19 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:51:29 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:51:29 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:51:39 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:51:39 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:51:54 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:51:54 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:51:59 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:51:59 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:52:09 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:52:09 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:52:19 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:52:19 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:52:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:52:31 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:52:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:52:40 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:52:49 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:52:49 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:53:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:53:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:53:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:53:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:53:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:53:20 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:53:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:53:30 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:53:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:53:40 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:53:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:53:50 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:54:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:54:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:54:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:54:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:54:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:54:20 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:54:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:54:30 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:54:40 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:54:40 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:54:50 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:54:50 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:55:00 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:55:00 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:55:10 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:55:10 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:55:20 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:55:20 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:55:30 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:55:30 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:55:41 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:55:41 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:55:51 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:55:51 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:56:01 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:56:01 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:56:11 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:56:11 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:56:17 PM [INFO]: App is running on port 8080
+10/15/2023, 10:56:17 PM [INFO]: Database connected
+10/15/2023, 10:56:20 PM [INFO]: Connected to MQTT broker
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 10:56:20 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 10:56:21 PM [INFO]: Database connected
+10/15/2023, 10:56:21 PM [INFO]: Database connected
+10/15/2023, 10:56:21 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:56:21 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:56:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:56:31 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:56:41 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:56:41 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:56:51 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:56:51 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:57:01 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:57:01 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:57:11 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:57:11 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:57:21 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:57:21 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 10:57:31 PM [INFO]: Ongoing trip found. Trip will continue
+10/15/2023, 10:57:31 PM [INFO]: Stored Tripdata in the database
+10/15/2023, 11:13:30 PM [INFO]: App is running on port 8080
+10/15/2023, 11:13:30 PM [INFO]: Database connected
+10/15/2023, 11:13:31 PM [INFO]: Connected to MQTT broker
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 11:13:31 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 11:13:37 PM [INFO]: Database connected
+10/15/2023, 11:13:37 PM [ERROR]: Logout error: invalid token
+10/15/2023, 11:14:14 PM [ERROR]: Logout error: invalid token
+10/15/2023, 11:17:13 PM [ERROR]: Logout error: invalid token
+10/15/2023, 11:25:59 PM [INFO]: App is running on port 8080
+10/15/2023, 11:25:59 PM [INFO]: Database connected
+10/15/2023, 11:26:02 PM [INFO]: Connected to MQTT broker
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 11:26:02 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 11:26:16 PM [INFO]: App is running on port 8080
+10/15/2023, 11:26:16 PM [INFO]: Database connected
+10/15/2023, 11:26:17 PM [INFO]: Connected to MQTT broker
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 11:26:17 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 11:26:25 PM [INFO]: Database connected
+10/15/2023, 11:29:29 PM [INFO]: App is running on port 8080
+10/15/2023, 11:29:29 PM [INFO]: Database connected
+10/15/2023, 11:29:30 PM [INFO]: Connected to MQTT broker
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 11:29:30 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 11:29:41 PM [INFO]: App is running on port 8080
+10/15/2023, 11:29:41 PM [INFO]: Database connected
+10/15/2023, 11:29:41 PM [INFO]: Connected to MQTT broker
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_8/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/CV43433/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/EC02190/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/DM0001A/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/PIY_001/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_NCL_15/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/IUEG/data
+10/15/2023, 11:29:41 PM [INFO]: Subscribed to topic: starkennInv3/DMS_CHI_DEMO_3/data
+10/15/2023, 11:29:47 PM [INFO]: Database connected
+10/15/2023, 11:29:47 PM [ERROR]: Error in adding device: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/15/2023, 11:29:58 PM [ERROR]: Error in adding device: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
