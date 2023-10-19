@@ -97,22 +97,119 @@ describe("testing the whole bunch of different apis" , ()=>{
       //Devices #
 
       //add devices
+      let rn = Math.random().toFixed(2);
+      rn = rn*100;
+      cy.log('printing user uuid: ', user_uuid);
       const deviceData={
-        device_id: "DMS_NLC_10",
+        device_id: `DMS_NLC_${rn}`,
         device_type: "DMS",
-        user_uuid,
-        sim_number:"7766445566"
+        user_uuid:user_uuid,
+        sim_number:`77664${rn}`,
+        status:"2",
+        userUUID: user_uuid
       }
-      cy.request({
+
+      const EditdeviceData={
+        device_id: `DMS_NLC_${rn}`,
+        device_type: "DMS",
+        user_uuid:user_uuid,
+        sim_number:`77664${rn}`,
+        status:"2",
+        userUUID: user_uuid
+      }
+
+     cy.request({
         method: 'POST',
         url: `http://localhost:${PORT}/api/devices/add-device`,
         headers: {
           authorization: `bearer ${token}`
         },
-      deviceData}).then(res=>{
-               cy.log("successful")
+      body: deviceData}).then((res)=>{
+        cy.log("successfully stored");
+      })
+
+      // edit device
+      cy.request({
+        method: 'PUT',
+        url: `http://localhost:${PORT}/api/devices/edit-device/${deviceData.device_id}`,
+        headers: { authorization: `bearer ${token}` },
+        body: EditdeviceData // Use "headers" instead of "header"
+      }).then(() => {
+        cy.log("Successfully Edited the device");
+      });
+
+
+      //delete the device
+      cy.request({
+        method: 'PUT',
+        url: `http://localhost:${PORT}/api/devices/delete-device/${deviceData.device_id}`,
+        headers: { authorization: `bearer ${token}` },
+        body: deviceData // Use "headers" instead of "header"
+      }).then((res) => {
+        cy.wrap(res.status).should('eq', 201);
+      });
+
+      //get list of all devices
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/list-devices`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        cy.wrap(res.body.devices).each(e=>{
+          cy.log(e.device_id)
+             
+              //get device by id
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/get-device-by-id/${e.device_id}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        cy.wrap(res.body.device).each(f=>{
+          cy.wrap(f.device_id).should('eq', e.device_id)
         })
-      
+      });
+
+
+        })
+      });
+
+      //get customer list
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/get-customerlist`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        res.body.users.forEach((user) => {
+          expect(user).to.have.property('user_uuid');
+          expect(user).to.have.property('first_name');
+          expect(user).to.have.property('last_name');
+        });
+      });
+
+      //get user device list
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/get-user-devices-list/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        res.body.results.forEach((ress) => {
+          expect(ress).to.have.property('device_id');
+          expect(ress).to.have.property('device_type');
+        });
+      });
+
+      //get user ecu
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/get-user-ecu/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        cy.log(res.body.message);
+      });
+
 
 
       //doing it for delete customer--> this would be done in the ending of the testing
