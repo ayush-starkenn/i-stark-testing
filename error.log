@@ -36,3 +36,20 @@
 10/19/2023, 3:40:45 PM [ERROR]: Error in adding device: Error: Duplicate entry 'DMS_NLC_22' for key 'device_id'
 10/19/2023, 9:55:03 PM [ERROR]: Error in adding device: Error: Duplicate entry 'DMS_NLC_21' for key 'device_id'
 10/19/2023, 9:55:08 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/19/2023, 11:38:52 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/20/2023, 12:12:03 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/20/2023, 12:35:34 PM [ERROR]: Error in adding device: Error: Duplicate entry 'DMS_NLC_28.999999999999996' for key 'device_id'
+10/20/2023, 12:51:00 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/20/2023, 12:55:43 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/20/2023, 12:57:52 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/20/2023, 1:02:01 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/20/2023, 1:04:07 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/20/2023, 1:04:41 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/20/2023, 1:06:08 PM [ERROR]: Error in updating analytics thresholds: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/21/2023, 10:08:18 PM [ERROR]: Error in sending featureset Error: Table 'portalbeta.mqttfeatureset' doesn't exist
+10/21/2023, 10:59:19 PM [ERROR]: Login error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/21/2023, 10:59:47 PM [ERROR]: Login error: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/21/2023, 11:09:29 PM [ERROR]: Error in adding device: Error: Duplicate entry 'DMS_NLC_10' for key 'device_id'
+10/21/2023, 11:33:29 PM [ERROR]: Error in deleting the Contacts TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/21/2023, 11:33:59 PM [ERROR]: Error in deleting the Contacts TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/21/2023, 11:35:12 PM [ERROR]: Error in deleting the Contacts TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null

@@ -210,6 +210,124 @@ describe("testing the whole bunch of different apis" , ()=>{
         cy.log(res.body.message);
       });
 
+      //get user iot
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/get-user-iot/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        cy.log(res.body.message);
+      });
+
+      //get user dms
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/get-user-dms/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        cy.log(res.body.message);
+      });
+
+      //get total devices count
+      cy.request({
+        method: 'GET',
+        url: `http://localhost:${PORT}/api/devices/total-devices`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        cy.log(res.body.message);
+      });
+
+
+      //analytics threshhold
+      let atLink = `http://localhost:${PORT}/api/analytics-threshold`;
+
+      const bodySent = {
+        customer_id: "f35f58b9-c2a8-47b5-83c2-85e6b7904617",
+      title: "particular change",
+      status: 1,
+      userUUID : "f35f58b9-c2a8-47b5-83c2-85e6b7904617",
+      brake: '2.4',
+      tailgating: '2.4',
+      rash_driving: '2.4',
+      sleep_alert: '2.4',
+      over_speed: '2.4',
+      green_zone: '2.4',
+      minimum_distance: '2.4',
+      minimum_driver_rating: '2.4',
+      ttc_difference_percentage: '24',
+      total_distance: '45',
+      duration: '2.4',
+      }
+
+      cy.request({
+        method: 'POST',
+        url: `${atLink}/add-analytics`,
+        headers: { authorization: `bearer ${token}` }
+        ,body: bodySent
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        cy.log(res.body.message);
+      });
+
+      //api to get all the analytics threshold;
+      cy.request({
+        method: 'GET',
+        url: `${atLink}/get-analytics-threshold`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res) => {
+        // Check if each object in the response body has the expected properties
+        cy.log(res.body.total_count);
+        cy.wrap(res.body.analyticData).each((ele)=>{
+        
+        cy.request({
+          method: 'GET',
+          url: `${atLink}/get-AnalyticsThresholds-ById/${ele.threshold_uuid}`,
+          headers: { authorization: `bearer ${token}` }
+        }).then((ress)=>{
+          cy.log(ress.body.message )
+        })
+
+
+        //request for update
+        const UpdatebodySent = {
+          user_uuid : ele.user_uuid,
+      title: "particular change",
+      score:{brake:"213",tailgating:"23",rash_driving:"221",sleep_alert:"232",over_speed:"321",green_zone:"312"},
+      incentive:{minimum_distance:"432",minimum_driver_rating:"4"},
+      accident:{ttc_difference_percentage:"21"},
+      leadership_board:{total_distance:"3232"},
+      halt:{duration:"212"},
+      status: 2,
+      userUUID : ele.user_uuid
+        }
+        cy.request({
+          method: 'PUT',
+          url: `${atLink}/update-analytic-threshold/${ele.threshold_uuid}`,
+          headers: { authorization: `bearer ${token}` },
+          body: UpdatebodySent
+        }).then((ress)=>{
+          cy.log(ress.body.message )
+        })
+
+        //delete the threshold
+        cy.request({
+          method: 'PUT',
+          url: `${atLink}/delete-analytic-threshold/${ele.threshold_uuid}`,
+          headers: { authorization: `bearer ${token}` },
+          body: UpdatebodySent
+        }).then((ress)=>{
+          cy.log(ress.body.message )
+        })
+        })
+        
+        
+      });
+
+
+
 
 
       //doing it for delete customer--> this would be done in the ending of the testing
@@ -225,6 +343,106 @@ describe("testing the whole bunch of different apis" , ()=>{
       //   })
 
   })
+
+  // customer side
+  // customer side
+  // customer side
+  //kindly add the code for customer panel here only
+  cy.request("POST" , `http://localhost:${PORT}/api/login`, {email : "demo@starkenn.com" , password : "qwerty"}).then((res)=>{
+      cy.wrap(res.body).should('have.property' , 'message' , 'Login successful!');
+      cy.wrap(res.body.user).should('have.property' , 'user_uuid');
+      cy.wrap(res.body).should('have.property' , 'token' );
+      const token  = res.body.token;
+      const user_uuid = res.body.user.user_uuid;
+
+      //remaining code for the customer api's will go here;
+      //get all contacts
+      const atLink = `http://localhost:${PORT}/api/contacts`;
+      cy.request({
+        method: 'GET',
+        url: `${atLink}/getContacts-all/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res)=>{
+        cy.wrap(res.body.contacts).each((ele)=>{
+          cy.wrap(ele).should('have.property', "user_uuid" , user_uuid);
+          cy.wrap(ele).should('have.property', "contact_uuid");
+
+          //get-contact-by-uuid
+          let contact_uuid = ele.contact_uuid;
+          cy.request({
+            method: 'GET',
+            url: `${atLink}/getContactById/${contact_uuid}`,
+            headers: { authorization: `bearer ${token}` }
+          }).then((e)=>{
+            cy.wrap(e.body.results).each((result)=>{
+              cy.wrap(result).should('have.property' , 'contact_email')
+              cy.wrap(result).should('have.property' , 'contact_mobile')
+            })
+          })
+        })
+      })
+
+      // savecontact/:user_uuid
+      let rn= Math.random().toFixed(1);
+      let saveContact = {
+        contact_first_name: 'demo',
+      contact_last_name: 'i-stark',
+      contact_email: `ayush${rn*10}@starkenn.com`,
+      contact_mobile: `9955994${rn*10}`,
+      }
+
+      let editContact = {
+        contact_first_name: 'demo',
+      contact_last_name: 'i-stark',
+      contact_email: `ayush${rn*100}@starkenn.com`,
+      contact_mobile: `9955994${rn*100}`,
+      contact_status: 1
+      }
+      cy.request({
+        method: 'POST',
+        url: `${atLink}/savecontact/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` },
+        body: saveContact
+      }).then((res)=>{
+        cy.wrap(res.body.message).should('eq' , "Contact added successfully");
+      })
+
+      //editContact
+      cy.request({
+        method: 'PUT',
+        url: `${atLink}/editcontact/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` },
+        body: editContact
+      }).then((res)=>{
+        cy.wrap(res.body.message).should('eq' , "Contacts updated successfully");
+      })
+      
+
+      //delete contact
+      cy.request({
+        method: 'GET',
+        url: `${atLink}/getContacts-all/${user_uuid}`,
+        headers: { authorization: `bearer ${token}` }
+      }).then((res)=>{
+        cy.wrap(res.body.contacts).each((ele)=>{
+          cy.wrap(ele).should('have.property', "user_uuid" , user_uuid);
+          cy.wrap(ele).should('have.property', "contact_uuid");
+
+          cy.request({
+            method: 'PUT',
+            url: `${atLink}/deletecontact/${ele.contact_uuid}`,
+            headers: { authorization: `bearer ${token}` },
+            body: {user_uuid: user_uuid}
+          }).then((res)=>{
+            cy.wrap(res.body.message).should('eq' , "Contacts deleted successfully");
+          })
+
+          return;
+
+        })})
+
+      
+    })
 
 })
 })
