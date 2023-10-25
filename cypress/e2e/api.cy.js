@@ -357,7 +357,7 @@ describe("testing the whole bunch of different apis" , ()=>{
 
       //remaining code for the customer api's will go here;
       //get all contacts
-      const atLink = `http://localhost:${PORT}/api/contacts`;
+      let atLink = `http://localhost:${PORT}/api/contacts`;
       cy.request({
         method: 'GET',
         url: `${atLink}/getContacts-all/${user_uuid}`,
@@ -387,15 +387,15 @@ describe("testing the whole bunch of different apis" , ()=>{
       let saveContact = {
         contact_first_name: 'demo',
       contact_last_name: 'i-stark',
-      contact_email: `ayush${rn*10}@starkenn.com`,
-      contact_mobile: `9955994${rn*10}`,
+      contact_email: `ayush${rn*100}@starkenn.com`,
+      contact_mobile: `995599${rn*100}`,
       }
 
       let editContact = {
         contact_first_name: 'demo',
       contact_last_name: 'i-stark',
-      contact_email: `ayush${rn*100}@starkenn.com`,
-      contact_mobile: `9955994${rn*100}`,
+      contact_email: `ayush${rn*10}@starkenn.com`,
+      contact_mobile: `9955994${rn*10}`,
       contact_status: 1
       }
       cy.request({
@@ -440,8 +440,87 @@ describe("testing the whole bunch of different apis" , ()=>{
           return;
 
         })})
+        let atLink1 = `http://localhost:${PORT}/api/profile`;
 
+        //get profile
+        cy.request({
+          method: 'GET',
+          url: `${atLink1}/get-profile/${user_uuid}`,
+          headers: { authorization: `bearer ${token}` }
+        }).then((res)=>{
+          cy.log(res.body.results)
+        })
+
+        //** this function can't be tested due to email */
+        // //update profile
+        // cy.request({
+        //   method: 'PUT',
+        //   url: `${atLink1}/update-profile/${user_uuid}`,
+        //   headers: { authorization: `bearer ${token}` },
+        //   body :{first_name:'demo',
+        //     last_name:'starkenn',
+        //     email: 'demo@starkenn.com',
+        //     company_name:'stark-i',
+        //     address:'sanewadi, pune',
+        //     state: 'MH',
+        //     city: 'MH-14',
+        //     pincode:'411021',
+        //     phone:'0000998866'}
+        // }).then((res)=>{
+        //   cy.wrap(res.body.message).should('eq', "User updated successfully");
+        // })
+
+        let atLink2 = `http://localhost:${PORT}/api/vehicles`;
+
+        //get-all-vehicle vehicle
+        cy.request({
+          method: 'GET',
+          url: `${atLink2}/get-all-vehicles`,
+          headers: { authorization: `bearer ${token}` },
+        }).then((e)=>{
+          cy.wrap(e.body.message).should('eq', "Successfully fetched data");
+        })
+
+        //get-user-vehicle list
+        cy.request({
+          method: 'GET',
+          url: `${atLink2}/get-user-vehiclelist/${user_uuid}`,
+          headers: { authorization: `bearer ${token}` },
+        }).then((e)=>{
+          cy.wrap(e.body.message).should('eq', "Successfully got list of all vehicles");
+          cy.wrap(e.body.results).each((r)=>{
+            cy.log(r.vehicle_name)
+            //edit vehicle here
+
+            //--on rest cause no featureset uuid is there
+
+            // const editVehicleName = {
+            //       user_uuid: user_uuid,
+            //       vehicle_name: 'testing_cypress',
+            //       vehicle_registration: 'MH12ST2034',
+            //       ecu: 'NULL',
+            //       iot: "NULL",
+            //       dms: "DMS_NCL_16",
+            //       featureset_uuid,
+            //       vehicle_status,
+            // }
+            // cy.request({
+            //   method: 'PUT',
+            //   url: `${atLink2}/edit-vehicle/${r.vehicle_uuid}`,
+            //   headers: { authorization: `bearer ${token}` },
+            //   body: editVehicleName
+            // })
+
+          })
+        })
+
+
+        //almost the whole vehicle is pending;
+        
       
+
+
+        // --- write your code for user above this;
     })
 
 })

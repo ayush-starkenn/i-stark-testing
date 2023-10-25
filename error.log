@@ -53,3 +53,11 @@
 10/21/2023, 11:33:29 PM [ERROR]: Error in deleting the Contacts TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
 10/21/2023, 11:33:59 PM [ERROR]: Error in deleting the Contacts TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
 10/21/2023, 11:35:12 PM [ERROR]: Error in deleting the Contacts TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null
+10/25/2023, 1:19:56 AM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o21-20020a17090aac1500b00277246e857esm8988330pjq.23 - gsmtp
+10/25/2023, 1:19:56 AM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o21-20020a17090aac1500b00277246e857esm8988330pjq.23 - gsmtp
+10/25/2023, 1:23:47 AM [ERROR]: sendEmail error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m129-20020a633f87000000b0057825bd3448sm7451985pga.51 - gsmtp
+10/25/2023, 1:23:47 AM [ERROR]: Error updating user: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m129-20020a633f87000000b0057825bd3448sm7451985pga.51 - gsmtp
